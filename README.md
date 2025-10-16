@@ -2,7 +2,7 @@
 
 **Data Analyst | AI & ML Enthusiast | Cloud & Automation Specialist**
 
-📍 North York, ON  
+📍 Toronto, ON  
 📞 +1 (437) 973-6106  
 📧 harshilbhavsar799@gmail.com  
 🌐 [LinkedIn](https://www.linkedin.com/in/harshilbhavsar99/) | [GitHub](https://github.com/harshilbhavsar7)
@@ -11,7 +11,7 @@
 
 ## 👋 About Me
 
-Hi there! I'm Harshil Bhavsar, a passionate **Data Analyst** and **AI/ML Developer** with over 3 years of experience designing scalable, automation-driven, and cloud-enabled solutions. I love solving complex business problems with Python, Machine Learning, and robust data engineering pipelines.
+Hi there! I'm Harshil Bhavsar, a passionate **AI/ML Developer** and **Data Analyst** with over 2 years of experience designing scalable, automation-driven, and cloud-enabled solutions. I love solving complex business problems with Python, Machine Learning, and robust data engineering pipelines.
 
 From optimizing ETL workflows and building intelligent OCR solutions to developing deep learning models and deploying APIs on cloud platforms, I bring a full-stack mindset to data science.
 
@@ -43,22 +43,30 @@ Deep learning model using CNNs on the HAM10000 dataset to detect skin cancer typ
 
 ## 🏢 Experience Snapshot
 
-### 🔹 Data Analyst – Accenture (2024–Present)
-- Optimized ETL latency by 75% using PySpark and Pandas
-- Improved model inference via real-time APIs (FastAPI on AKS)
-- Developed anomaly detection scripts saving 120+ manual hours/month
+### 🔹 Associate Software Engineer – Cygnet Infotech Private Limited (Dec 2021 – July 2022)
+• Developed document automation bots to extract and validate data from cheques and government documents using
+OCR and NLP (95% accuracy).
+• Automated document generation, signing, and uploading workflows via Python, reducing daily manual effort by 12
+hours.
+• Integrated data extraction scripts with email and database systems, improving reporting accuracy and efficiency.
+• Enhanced document processing pipeline to support data validation and exception handling in high-volume environments.
 
-### 🔹 Data Analyst – Cygnet One (2020–2022)
-- Built scalable OCR and AI tools for EDI processing
-- Implemented BERT-based legal text summarization
-- Led automation of financial reports with Python & Power BI
+### 🔹 Jr. Data Scientist – Fusion Informatics Limited (May 2021 – Dec 2021)
+• Built NLP pipelines with BERT and NER to extract structured entities from legal and healthcare documents.
+• Achieved 90% accuracy in extracting data from medical reports using OCR + ML pipelines.
+• Deployed IDP models on AWS, managing database connectivity, API endpoints, and security controls for production.
+
+### 🔹 Jr. Software Developer – Infomize Technologies (Dec 2019 – Feb 2021)
+• Transitioned .NET-based data extraction product to AI-driven automation using a Faster RCNN model (80% accuracy).
+• Built REST APIs in Flask and managed production deployment on GPU-enabled Ubuntu servers.
+• Annotated and preprocessed 2000+ invoices and credit notes for model training and testing.
 
 ---
 
 ## 🎓 Education
 
 - **Postgraduate in AI & ML** – Lambton College, Toronto (2022–2024)  
-- **B.E. in Computer Engineering** – GTU, India (2016–2020)  
+- **B.E. in Computer Engineering** – GTU Univerisity (2016–2020)  
 
 ---
 
