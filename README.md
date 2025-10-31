@@ -11,7 +11,7 @@
 
 ## 👋 About Me
 
-Hi there! I'm Harshil Bhavsar, a passionate **AI/ML Developer** and **Data Analyst** with over 2 years of experience designing scalable, automation-driven, and cloud-enabled solutions. I love solving complex business problems with Python, Machine Learning, and robust data engineering pipelines.
+Hi there! I'm Harshil Bhavsar, a passionate **AI/ML Developer** and **Data Analyst** with over 3 years of experience designing scalable, automation-driven, and cloud-enabled solutions. I love solving complex business problems with Python, Machine Learning, and robust data engineering pipelines.
 
 From optimizing ETL workflows and building intelligent OCR solutions to developing deep learning models and deploying APIs on cloud platforms, I bring a full-stack mindset to data science.
 
