@@ -1,6 +1,6 @@
 # Harshil Bhavsar
 
-**Data Analyst | AI & ML Enthusiast | Cloud & Automation Specialist**
+**AI & ML Enthusiast | Cloud & Automation Specialist**
 
 📍 Toronto, ON  
 📞 +1 (437) 973-6106  
@@ -11,9 +11,9 @@
 
 ## 👋 About Me
 
-Hi there! I'm Harshil Bhavsar, a passionate **AI/ML Developer** and **Data Analyst** with over 3 years of experience designing scalable, automation-driven, and cloud-enabled solutions. I love solving complex business problems with Python, Machine Learning, and robust data engineering pipelines.
+Hi there! I'm Harshil Bhavsar, a passionate **AI Enthusiast** with over 2 years of experience designing scalable, automation-driven, and cloud-enabled solutions. I love solving complex business problems with Python, Machine Learning, and robust data engineering pipelines.
 
-From optimizing ETL workflows and building intelligent OCR solutions to developing deep learning models and deploying APIs on cloud platforms, I bring a full-stack mindset to data science.
+From optimising ETL workflows and building intelligent OCR solutions to developing deep learning models and deploying APIs on cloud platforms, I bring a full-stack mindset to data science.
 
 ---
 
@@ -43,19 +43,32 @@ Deep learning model using CNNs on the HAM10000 dataset to detect skin cancer typ
 
 ## 🏢 Experience Snapshot
 
-### 🔹 Associate Software Engineer – Cygnet Infotech Private Limited (July 2020 – July 2022)
-• Developed document automation bots to extract and validate data from cheques and government documents using
-OCR and NLP (95% accuracy).
-• Automated document generation, signing, and uploading workflows via Python, reducing daily manual effort by 12
-hours.
-• Integrated data extraction scripts with email and database systems, improving reporting accuracy and efficiency.
-• Enhanced document processing pipeline to support data validation and exception handling in high-volume environments.
-• Built NLP pipelines with BERT and NER to extract structured entities from legal and healthcare documents.
-• Achieved 90% accuracy in extracting data from medical reports using OCR + ML pipelines.
-• Deployed IDP models on AWS, managing database connectivity, API endpoints, and security controls for production.
-• Transitioned .NET-based data extraction product to AI-driven automation using a Faster RCNN model (80% accuracy).
-• Built REST APIs in Flask and managed production deployment on GPU-enabled Ubuntu servers.
-• Annotated and preprocessed 2000+ invoices and credit notes for model training and testing.
+###🔹 Associate Software Engineer - Cygnet Infotech Private Limited (Dec 2021 – July 2022)
+
+• Built models using TensorFlow, Keras, and CNN/ANN architectures for classification and prediction tasks.
+• Developed custom NER and NLP pipelines using Python, NLTK, and OpenCV.
+• Created data extraction and business automation workflows using OCR and ML.
+• Built REST APIs with Flask and deployed them on Azure VMs.
+• Managed code, fixed bugs, optimised workflows, and supported deployments.
+• Worked with SQL Server and PostgreSQL for backend integration.
+• Handled testing, debugging, documentation, and client-specific customisations.
+• Supported junior developers and helped streamline internal processes.
+
+###🔹 AI/ML Developer - Fusion Informatics (Feb 2021 – Dec 2021)
+
+• Cleaned and analysed datasets for ML model development.
+• Performed feature selection and hyperparameter tuning for better model performance.
+• Built classification models with algorithms like Random Forest, SVM, Logistic Regression, and KNN.
+• Created visualisations with Matplotlib and Seaborn for data storytelling.
+• Worked on ANN-based prediction models and improved accuracy with tuning.
+• Documented work and collaborated with team members in a research setting.
+
+###🔹 Software Developer - Infomize Technologies (Dec 2019 – Feb 2021)
+
+• Built a web scraper using Selenium and Python to pull online content.
+• Designed an NER model to extract movie names from raw website data.
+• Developed a simple recommendation model using extracted information.
+• Created data visualisations with Matplotlib for summary insights.
 
 ---
 
